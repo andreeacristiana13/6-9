@@ -1,0 +1,3 @@
+﻿  lab6_6.1.cpp
+D:\ace\OOP\OOP_Laboratories 6-9\lab6_6.1\lab6_6.1\lab6_6.1.cpp(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lab6_6.1.vcxproj -> D:\ace\OOP\OOP_Laboratories 6-9\lab6_6.1\x64\Debug\lab6_6.1.exe

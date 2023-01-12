@@ -1,0 +1,4 @@
+﻿  lab6_6.3.cpp
+D:\ace\OOP\OOP_Laboratories 6-9\lab6_6.3\lab6_6.3\lab6_6.3.cpp(19,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ace\OOP\OOP_Laboratories 6-9\lab6_6.3\lab6_6.3\lab6_6.3.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab6_6.3.vcxproj -> D:\ace\OOP\OOP_Laboratories 6-9\lab6_6.3\x64\Debug\lab6_6.3.exe
